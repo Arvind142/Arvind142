@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arvind Choudhary  </h1>
 
-<!--
-**Arvind142/Arvind142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Test Automation Engineer | 3+ Years EXP. | Mumbai, India
+<!---Profile view counter--->          
+![views](https://komarev.com/ghpvc/?username=Arvind142&color=blue)
+  <!---Trophy Case--->          
+![Trophies](https://github-profile-trophy.vercel.app/?username=Arvind142)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+#### Languages:
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Arvind142&show_icons=true&locale=en&layout=compact)
+
+#### Tools:
+-   Testing Framework
+    -   TestNG
+    -   JUnit
+-   Automation
+    -   Browser
+        -   Selenium
+            -   Web Driver
+            -   Grid
+    -   Window
+        -   Leanft/UFT Developer
+    -   API
+        -   RestAssured Java Library
+        -   Postman
+        -   Karate DSL
+-   Cucumber - BDD
+-   Git - version control
+-   Jenkins - Continuous Integration Continuous Deployment
+-   Apache Maven - software project management
+
+### Metrics
+![Arvind's stat](https://github-readme-stats.vercel.app/api?username=Arvind142&show_icons=true&locale=en&hide=issues,contribs)
+
+[![Arvind's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arvind142&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
+### Connect with me:
+- [LinkedIn](https://linkedin.com/in/arvind-choudhary-0b0a82171/)
+- [MailBox](mailto:arvindchoudhary142@yahoo.in)
+- More on me? [find here](https://1drv.ms/b/s!Atbal6KEc75Z3Uad6Pp7ob_Owhud?e=9sXBGv)  
+  
