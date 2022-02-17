@@ -30,6 +30,7 @@
 -   Git - version control
 -   Jenkins - Continuous Integration Continuous Deployment
 -   Apache Maven - software project management
+-   Docker - Containerization
 
 ### Metrics
 ![Arvind's stat](https://github-readme-stats.vercel.app/api?username=Arvind142&show_icons=true&locale=en&hide=issues,contribs)
