@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 #### Languages:
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=Arvind142&show_icons=true&locale=en&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arvind142&langs_count=8&&show_icons=true&locale=en&layout=compact)
 
 #### Tools:
 -   Testing Framework
