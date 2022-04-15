@@ -41,13 +41,13 @@
 
 
 ### Connect with me:
-- [LinkedIn](https://linkedin.com/in/arvind-choudhary-0b0a82171/)
+- [LinkedIn](https://bit.ly/37TQA5W)
 - [MailBox](mailto:arvindchoudhary142@yahoo.in)
 - More on me? [Resume](https://1drv.ms/b/s!Atbal6KEc75Z3Uad6Pp7ob_Owhud?e=9sXBGv)  
-- Portfolio? [Here!](https://arvind-choudhary.herokuapp.com/)
+- Portfolio? [Here!](https://bit.ly/3M2QmrS)
 
 #### I write blogs on below sites:
-- [Dev.to](https://dev.to/arvind_choudhary)
-- [Medium](https://arvind-choudhary.medium.com)
+- [Dev.to](https://bit.ly/3Ee5pfL)
+- [Medium](https://bit.ly/3jHafsm)
 
 
