@@ -45,4 +45,9 @@
 - [MailBox](mailto:arvindchoudhary142@yahoo.in)
 - More on me? [Resume](https://1drv.ms/b/s!Atbal6KEc75Z3Uad6Pp7ob_Owhud?e=9sXBGv)  
 - Portfolio? [Here!](https://arvind-choudhary.herokuapp.com/)
-  
+
+#### I write blogs on below sites:
+- [Dev.to](https://dev.to/arvind_choudhary)
+- [Medium](https://arvind-choudhary.medium.com)
+
+
