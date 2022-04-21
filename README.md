@@ -39,15 +39,12 @@
 [![Arvind's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arvind142&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-
-### Connect with me:
-- [LinkedIn](https://bit.ly/37TQA5W)
-- [MailBox](mailto:arvindchoudhary142@yahoo.in)
-- More on me? [Resume](https://1drv.ms/b/s!Atbal6KEc75Z3Uad6Pp7ob_Owhud?e=9sXBGv)  
-- Portfolio? [Here!](https://bit.ly/3M2QmrS)
-
-#### I write blogs on below sites:
+### Do i write? Yes
 - [Dev.to](https://bit.ly/3Ee5pfL)
 - [Medium](https://bit.ly/3jHafsm)
 
 
+#### Connect with me:
+- [LinkedIn](https://bit.ly/37TQA5W)
+- [MailBox](mailto:arvindchoudhary142@yahoo.in)
+- Portfolio? [Here!](https://bit.ly/3M2QmrS)
