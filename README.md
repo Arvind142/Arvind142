@@ -2,7 +2,10 @@
 
 ### Test Automation Engineer | 3+ Years EXP. | Mumbai, India
 <!---Profile view counter          
-![views](https://komarev.com/ghpvc/?username=Arvind142&color=blue)---> <!--- Code Time --> [![Total Time Coded](https://wakatime.com/badge/user/37a8dbe7-12d0-483c-b5e7-715eec83bc07.svg)](https://wakatime.com/@37a8dbe7-12d0-483c-b5e7-715eec83bc07)
+![views](https://komarev.com/ghpvc/?username=Arvind142&color=blue)
+---> 
+<!--- Code Time --> 
+[![Total Time Coded](https://wakatime.com/badge/user/37a8dbe7-12d0-483c-b5e7-715eec83bc07.svg)](https://wakatime.com/@37a8dbe7-12d0-483c-b5e7-715eec83bc07)
   <!---Trophy Case--->          
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Arvind142)
 
