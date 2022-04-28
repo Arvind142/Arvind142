@@ -1,6 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Arvind Choudhary  </h1>
 
-### Test Automation Engineer | 3+ Years EXP. | Mumbai, India
+<h3 align="center"> Test Automation Engineer | 4+ Years EXP. | Mumbai, India </h3>
+
+
 <!---Profile view counter          
 ![views](https://komarev.com/ghpvc/?username=Arvind142&color=blue)
 ---> 
@@ -29,11 +32,14 @@
         -   RestAssured Java Library
         -   Postman
         -   Karate DSL
+-   WebDevelopment
+        -   React.js
 -   Cucumber - BDD
 -   Git - version control
 -   Jenkins - Continuous Integration Continuous Deployment
 -   Apache Maven - software project management
 -   Docker - Containerization
+-   Docker Swarm - Orchestration
 
 ### Metrics
 
@@ -43,8 +49,8 @@
 
 
 ### Do i write? Yes
-- [Dev.to](https://bit.ly/3Ee5pfL)
 - [Medium](https://bit.ly/3jHafsm)
+- [Dev.to](https://bit.ly/3Ee5pfL)
 
 
 #### Connect with me:
