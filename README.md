@@ -40,9 +40,11 @@
   - Orchestration
 
 ### Metrics
-![Arvind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arvind_Choudhary&layout=compact&langs_count=14)
-![Arvind's stat](https://github-readme-stats.vercel.app/api?username=Arvind142&show_icons=true&locale=en&hide=issues,contribs)  
+![Arvind's stat](https://github-readme-stats.vercel.app/api?username=Arvind142&show_icons=true&locale=en&hide=issues,contribs)
+
 [![Arvind's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arvind142&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Arvind's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arvind_Choudhary&layout=compact&langs_count=14)
 
 ### My Work?
 - [Arvind142/Modular-Automation-Framework](https://github.com/Arvind142/Modular-Automation-Framework)
