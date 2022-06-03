@@ -48,7 +48,7 @@
 
 ### My Work?
 - [Arvind142/Spring-Conference-Demo](https://github.com/Arvind142/Spring-conference-demo)
-- [Arvind142/Modular-Automation-Framework](https://github.com/Arvind142/Modular-Automation-Framework)
+- [Arvind142/TestNG-Modular-Automation-Framework](https://github.com/Arvind142/TestNG-Modular-Automation-Framework)
 - [Arvind142/React-StarMatch](https://github.com/Arvind142/React-StarMatch)
 - [Arvind142/React-The-Github-Card-API](https://github.com/Arvind142/React-The-Github-Card-API)
 - [Arvind142/Docker-container-examples](https://github.com/Arvind142/Docker-container-examples)
