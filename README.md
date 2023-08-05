@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Arvind Choudhary  </h1>    
 
-<h3 align="center"> Test Automation Engineer | 4+ Years EXP</h3>    
+<h3 align="center"> Test Automation Engineer | 5+ Years EXP</h3>    
 
 
 ![views](https://komarev.com/ghpvc/?username=Arvind142&color=blue)    [![wakatime](https://wakatime.com/badge/user/37a8dbe7-12d0-483c-b5e7-715eec83bc07.svg)](https://wakatime.com/@37a8dbe7-12d0-483c-b5e7-715eec83bc07)
