@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arvindc142" target="blank"><img src="https://img.shields.io/twitter/follow/arvindc142?logo=twitter&style=for-the-badge" alt="arvindc142" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://arvind-choudhary.vercel.app/](https://arvind-choudhary.vercel.app/)
+[//]: # (- 👨‍💻 All of my projects are available at [https://arvind-choudhary.vercel.app/]&#40;https://arvind-choudhary.vercel.app/&#41;)
 
 - 📝 I regularly write articles on [https://arvind-choudhary.medium.com/](https://arvind-choudhary.medium.com/)
 
