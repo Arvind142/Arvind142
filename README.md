@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Playwright?](https://arvind-choudhary.medium.com/why-playwright-34f6fc3ded68?source=rss-a18e71a98a34------2)
-- [TestNG testing framework —Test Name in Extent Report](https://arvind-choudhary.medium.com/testng-testing-framework-test-name-in-extent-report-8b206d6cc357?source=rss-a18e71a98a34------2)
-- [Dashboard for Programmers](https://arvind-choudhary.medium.com/dashboard-for-programmers-80e768fbdf1e?source=rss-a18e71a98a34------2)
 - [Docker Image of your Testing Project / Dockerise test execution](https://dev.to/arvind_choudhary/docker-image-of-your-testing-project-dockerise-test-execution-3o02)
-- [Docker Image of your Testing Project / Dockerise test execution](https://arvind-choudhary.medium.com/docker-image-of-your-testing-project-92338f996f6f?source=rss-a18e71a98a34------2)
+- [TestNG testing framework — Parameterization](https://dev.to/arvind_choudhary/testng-testing-framework-parameterization-cep)
+- [TestNG testing framework - Introduction](https://dev.to/arvind_choudhary/testng-testing-framework-8hi)
+- [Why to use Loggers?](https://dev.to/arvind_choudhary/why-to-use-loggers-3b7)
+- [Getting started with WDM&lpar;WebDriverManager&rpar;](https://dev.to/arvind_choudhary/getting-started-with-wdmwebdrivermanager-5h6g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
