@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://arvind-choudhary.medium.com/](https://arvind-choudhary.medium.com/)
 
-- 💬 Ask me about **Java, Spring, JPA, AWS, Terraform, Selenium**
+- 💬 Ask me about **Java, Spring, JPA, AWS, Terraform, Control-M**
 
 - 📫 How to reach me **arvindchoudhary142@yahoo.in**
 
