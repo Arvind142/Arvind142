@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvind Choudhary</h1>
-<h3 align="center">Test Automation Engineer | 5+ Years EXP</h3>
+<h3 align="center">Software Engineer | 6+ YoE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind142&label=Profile%20views&color=0e75b6&style=flat" alt="arvind142" /> </p> 
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://arvind-choudhary.medium.com/](https://arvind-choudhary.medium.com/)
 
-- 💬 Ask me about **Automation Testing, testNG, Selenium, Extent Report**
+- 💬 Ask me about **Java, Spring, JPA, AWS, Terraform, Selenium**
 
 - 📫 How to reach me **arvindchoudhary142@yahoo.in**
 
